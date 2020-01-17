@@ -8,15 +8,6 @@
     "isKey": true
   },
   {
-    "fieldName": "name",
-    "label": "Name",
-    "dataType": "string",
-    "isRequired": true,
-    "controlType": "Input-Field",
-    "displayOrder": 2,
-    "startRow": 0
-  },
-  {
     "fieldName": "number",
     "label": "Number",
     "dataType": "number",
@@ -79,13 +70,5 @@
         "moduleParamId": 2
       }
     ]
-  },
-  {
-    "fieldName": "isenabled",
-    "label": "Field is Enabled?",
-    "dataType": "boolean",
-    "controlType": "Input-Field-Checkbox",
-    "displayOrder": 2,
-    "startRow": 1
   }
 ]
